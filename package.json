@@ -1,0 +1,25 @@
+{
+  "name": "playright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymQAMadness/Playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymQAMadness/Playwright/issues"
+  },
+  "homepage": "https://github.com/MaksymQAMadness/Playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
